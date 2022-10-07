@@ -3,14 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="0223131d-0ba2-40e5-bbd2-2107abd435a8" name="Default Changelist" comment="Qadmin后台模板 - Laravel8示例">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -169,7 +168,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616169717176</updated>
-      <workItem from="1616169718395" duration="2700000" />
+      <workItem from="1616169718395" duration="3968000" />
+      <workItem from="1616228734864" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="Qadmin后台模板 - Laravel8示例">
       <created>1616172376162</created>
@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616172376162</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Qadmin后台模板 - Laravel8示例">
+      <created>1616172450979</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616172450979</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +201,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Qadmin后台模板 - Laravel8示例" />
